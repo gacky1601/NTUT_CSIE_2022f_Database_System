@@ -46,7 +46,7 @@
 
 **Chapter 15 :** 
 
-未完成
+**未完成**
 
 **Chapter 16 : Disk Storage與基本資料結構**
 
