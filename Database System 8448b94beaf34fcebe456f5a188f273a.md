@@ -36,7 +36,7 @@
 
 [Chapter 7](Database%20System%208448b94beaf34fcebe456f5a188f273a/Chapter%207%206b02b957a23245da9d06381720e8e113.md)
 
-**Chapter 10 : SQL Programming**
+**Chapter 10 : SQL Programming(可能不考)**
 
 [Chapter 10](Database%20System%208448b94beaf34fcebe456f5a188f273a/Chapter%2010%2031e71e82f20c4cb3a4f60814db8b8e05.md)
 
@@ -44,9 +44,9 @@
 
 [Chapter 14](Database%20System%208448b94beaf34fcebe456f5a188f273a/Chapter%2014%20b658a15661b34a3ba856a2e2eeba2159.md)
 
-**Chapter 15 :** 
+**Chapter 15 : (可能不考)**
 
-**未完成**
+[Chapter 15](Database%20System%208448b94beaf34fcebe456f5a188f273a/Chapter%2015%206178695a4c3248c18e6f40555dca8376.md)
 
 **Chapter 16 : Disk Storage與基本資料結構**
 
